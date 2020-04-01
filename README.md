@@ -5,7 +5,6 @@
 #### _file download_
 -  *git clone https://github.com/gojaebeom/java_tutorial.git*
 <br/>
-<br/>
 
 ### Categories
 -  _[자바 기초](https://github.com/gojaebeom/java_tutorial/tree/master/src/ch00_%EC%9E%90%EB%B0%94%EC%9D%98%EA%B8%B0%EB%B3%B8)_
