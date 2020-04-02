@@ -1,6 +1,6 @@
 package ch01_변수;
 
-public class example01 {
+public class Example01 {
 	/**
 	byte (숫자, 1 바이트)
 	short (숫자, 2 바이트)
