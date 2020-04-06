@@ -1,7 +1,7 @@
 # Java Tutorial  
 #### *본 튜토리얼은 윤성우님의 열혈JAVA 프로그래밍 책과 +구글검색등을 활용하여 정리한 내용입니다. 자바의 기본 개념 및 문법등의 복습을 목표로 하고있습니다.*  
 <br/>
-<img src="https://s3.ap-northeast-2.amazonaws.com/grepp-cloudfront/programmers_imgs/learn/thumb-course-java-intermediate.jpg" width="100%">
+<img src="https://user-images.githubusercontent.com/62233873/78540149-aa58da80-782e-11ea-9754-33ae5e40ec43.jpg" width="100%">
 
 #### _file download_
 -  *git clone https://github.com/gojaebeom/java_tutorial.git*
