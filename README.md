@@ -25,8 +25,15 @@
     - _[if](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch03_%EC%A0%9C%EC%96%B4%EB%AC%B8/If%EB%AC%B8.java)_
     - _[switch](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch03_%EC%A0%9C%EC%96%B4%EB%AC%B8/Switch%EB%AC%B8.java)_
     - _[while](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch03_%EC%A0%9C%EC%96%B4%EB%AC%B8/While%EB%AC%B8.java)_
-     - _[for](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch03_%EC%A0%9C%EC%96%B4%EB%AC%B8/For%EB%AC%B8.java)_
-      - _[break와continue](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch03_%EC%A0%9C%EC%96%B4%EB%AC%B8/Break%EC%99%80Continue.java)_
+    - _[for](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch03_%EC%A0%9C%EC%96%B4%EB%AC%B8/For%EB%AC%B8.java)_
+    - _[break와continue](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch03_%EC%A0%9C%EC%96%B4%EB%AC%B8/Break%EC%99%80Continue.java)_
+-  메소드와 변수의 스코프
+    - _[메소드의 정의](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch04_%EB%A7%A4%EC%86%8C%EB%93%9C%EC%99%80%EB%B3%80%EC%88%98%EC%9D%98%EC%8A%A4%EC%BD%94%ED%94%84/Method%EC%A0%95%EC%9D%98.java)_
+    - _[메소드의 반환값](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch04_%EB%A7%A4%EC%86%8C%EB%93%9C%EC%99%80%EB%B3%80%EC%88%98%EC%9D%98%EC%8A%A4%EC%BD%94%ED%94%84/Method%EC%9D%98Retrun.java)_
+    - _[메소드 연습문제1](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch04_%EB%A7%A4%EC%86%8C%EB%93%9C%EC%99%80%EB%B3%80%EC%88%98%EC%9D%98%EC%8A%A4%EC%BD%94%ED%94%84/Method%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C.java)_
+    - _[메소드 연습문제2](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch04_%EB%A7%A4%EC%86%8C%EB%93%9C%EC%99%80%EB%B3%80%EC%88%98%EC%9D%98%EC%8A%A4%EC%BD%94%ED%94%84/Method%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C2.java)_
+    - _[메소드의 재귀적 호출(맛보기)](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch04_%EB%A7%A4%EC%86%8C%EB%93%9C%EC%99%80%EB%B3%80%EC%88%98%EC%9D%98%EC%8A%A4%EC%BD%94%ED%94%84/Method%EC%9D%98_%EC%9E%AC%EA%B7%80%ED%98%B8%EC%B6%9C.java)_
+    - _[변수의 스코프](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch04_%EB%A7%A4%EC%86%8C%EB%93%9C%EC%99%80%EB%B3%80%EC%88%98%EC%9D%98%EC%8A%A4%EC%BD%94%ED%94%84/%EB%B3%80%EC%88%98%EC%9D%98%EC%8A%A4%EC%BD%94%ED%94%84.java)_
 
 <br/>
 
