@@ -48,10 +48,10 @@
     - _[캡슐화 02](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch06_%EC%A0%95%EB%B3%B4%EC%9D%80%EB%8B%89%EA%B3%BC%EC%BA%A1%EC%8A%90%ED%99%94/%EC%BA%A1%EC%8A%90%ED%99%9402.java)_
     - _[캡슐화 03](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch06_%EC%A0%95%EB%B3%B4%EC%9D%80%EB%8B%89%EA%B3%BC%EC%BA%A1%EC%8A%90%ED%99%94/%EC%BA%A1%EC%8A%90%ED%99%9403.java)_
 -  클래스 변수와 클래스 메소드
-    - _[static 변수 선언](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch06_%EC%A0%95%EB%B3%B4%EC%9D%80%EB%8B%89%EA%B3%BC%EC%BA%A1%EC%8A%90%ED%99%94/%EC%A0%95%EB%B3%B4%EC%9D%80%EB%8B%89.java)_
-    - _[클래스 변수 접근방법](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch06_%EC%A0%95%EB%B3%B4%EC%9D%80%EB%8B%89%EA%B3%BC%EC%BA%A1%EC%8A%90%ED%99%94/Getter%EC%99%80Setter.java)_
-    - _[클래스 변수 초기화](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch06_%EC%A0%95%EB%B3%B4%EC%9D%80%EB%8B%89%EA%B3%BC%EC%BA%A1%EC%8A%90%ED%99%94/%EC%A0%91%EA%B7%BC%EC%88%98%EC%A4%80%EC%A7%80%EC%8B%9C%EC%9E%90.java)_
-    - _[클래스 변수 활용](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch06_%EC%A0%95%EB%B3%B4%EC%9D%80%EB%8B%89%EA%B3%BC%EC%BA%A1%EC%8A%90%ED%99%94/%EC%BA%A1%EC%8A%90%ED%99%9401.java)_
+    - _[static 변수 선언](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch07_%ED%81%B4%EB%9E%98%EC%8A%A4%EB%B3%80%EC%88%98%EC%99%80%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A9%94%EC%86%8C%EB%93%9C/Static%EB%B3%80%EC%88%98_%EC%84%A0%EC%96%B8.java)_
+    - _[클래스 변수 접근방법](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch07_%ED%81%B4%EB%9E%98%EC%8A%A4%EB%B3%80%EC%88%98%EC%99%80%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A9%94%EC%86%8C%EB%93%9C/%ED%81%B4%EB%9E%98%EC%8A%A4%EB%B3%80%EC%88%98_%EC%A0%91%EA%B7%BC%EB%B0%A9%EB%B2%95.java)_
+    - _[클래스 변수 초기화](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch07_%ED%81%B4%EB%9E%98%EC%8A%A4%EB%B3%80%EC%88%98%EC%99%80%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A9%94%EC%86%8C%EB%93%9C/%ED%81%B4%EB%9E%98%EC%8A%A4%EB%B3%80%EC%88%98_%EC%B4%88%EA%B8%B0%ED%99%94.java)_
+    - _[클래스 변수 활용](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch07_%ED%81%B4%EB%9E%98%EC%8A%A4%EB%B3%80%EC%88%98%EC%99%80%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A9%94%EC%86%8C%EB%93%9C/%ED%81%B4%EB%9E%98%EC%8A%A4%EB%B3%80%EC%88%98_%ED%99%9C%EC%9A%A9.java)_
 
 
 <br/>
