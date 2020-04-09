@@ -40,6 +40,13 @@
     - _[인스턴스 만들기 02](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch05_%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4/%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%EB%A7%8C%EB%93%A4%EA%B8%B002.java)_
     - _[String클래스](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch05_%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4/String%ED%81%B4%EB%9E%98%EC%8A%A4.java)_
     - _[생성자](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch05_%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4/%EC%83%9D%EC%84%B1%EC%9E%90.java)_
+-  정보은닉과 캡슐화
+    - _[정보 은닉](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch06_%EC%A0%95%EB%B3%B4%EC%9D%80%EB%8B%89%EA%B3%BC%EC%BA%A1%EC%8A%90%ED%99%94/%EC%A0%95%EB%B3%B4%EC%9D%80%EB%8B%89.java)_
+    - _[Getter와 Setter](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch06_%EC%A0%95%EB%B3%B4%EC%9D%80%EB%8B%89%EA%B3%BC%EC%BA%A1%EC%8A%90%ED%99%94/Getter%EC%99%80Setter.java)_
+    - _[접근 수준 지시자](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch06_%EC%A0%95%EB%B3%B4%EC%9D%80%EB%8B%89%EA%B3%BC%EC%BA%A1%EC%8A%90%ED%99%94/%EC%A0%91%EA%B7%BC%EC%88%98%EC%A4%80%EC%A7%80%EC%8B%9C%EC%9E%90.java)_
+    - _[캡슐화 01](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch06_%EC%A0%95%EB%B3%B4%EC%9D%80%EB%8B%89%EA%B3%BC%EC%BA%A1%EC%8A%90%ED%99%94/%EC%BA%A1%EC%8A%90%ED%99%9401.java)_
+    - _[캡슐화 02](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch06_%EC%A0%95%EB%B3%B4%EC%9D%80%EB%8B%89%EA%B3%BC%EC%BA%A1%EC%8A%90%ED%99%94/%EC%BA%A1%EC%8A%90%ED%99%9402.java)_
+    - _[캡슐화 03](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch06_%EC%A0%95%EB%B3%B4%EC%9D%80%EB%8B%89%EA%B3%BC%EC%BA%A1%EC%8A%90%ED%99%94/%EC%BA%A1%EC%8A%90%ED%99%9403.java)_
 
 
 <br/>
