@@ -1,5 +1,5 @@
 # Java Tutorial  
-#### *본 튜토리얼은 윤성우님의 열혈JAVA 프로그래밍 책과 +구글검색등을 활용하여 정리한 내용입니다. 자바의 기본 개념 및 문법등의 복습 또는 더 나아가 잘 알지 못했던 것을 학습하는 것을  목표로 하고있습니다.*  
+#### *본 튜토리얼은 윤성우님의 열혈JAVA 프로그래밍 책과 +구글검색등을 활용하여 정리한 내용입니다. 자바의 기본 개념 및 문법등의 복습 또는 더 나아가 잘 알지 못했던 내용을 학습하는 것을  목표로 하고있습니다.*  
 <br/>
 <img src="https://user-images.githubusercontent.com/62233873/78540149-aa58da80-782e-11ea-9754-33ae5e40ec43.jpg" width="100%">
 
@@ -34,7 +34,7 @@
     - _[메소드 연습문제2](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch04_%EB%A7%A4%EC%86%8C%EB%93%9C%EC%99%80%EB%B3%80%EC%88%98%EC%9D%98%EC%8A%A4%EC%BD%94%ED%94%84/Method%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C2.java)_
     - _[메소드의 재귀적 호출(맛보기)](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch04_%EB%A7%A4%EC%86%8C%EB%93%9C%EC%99%80%EB%B3%80%EC%88%98%EC%9D%98%EC%8A%A4%EC%BD%94%ED%94%84/Method%EC%9D%98_%EC%9E%AC%EA%B7%80%ED%98%B8%EC%B6%9C.java)_
     - _[변수의 스코프](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch04_%EB%A7%A4%EC%86%8C%EB%93%9C%EC%99%80%EB%B3%80%EC%88%98%EC%9D%98%EC%8A%A4%EC%BD%94%ED%94%84/%EB%B3%80%EC%88%98%EC%9D%98%EC%8A%A4%EC%BD%94%ED%94%84.java)_
--  클래스와 인스턴스
+-  클래스와 인스턴스(객체)
     - _[클래스의 정의](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch05_%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4/BankAccountPO.java)_
     - _[인스턴스 만들기 01](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch05_%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4/%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%EB%A7%8C%EB%93%A4%EA%B8%B0.java)_
     - _[인스턴스 만들기 02](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch05_%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4/%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%EB%A7%8C%EB%93%A4%EA%B8%B002.java)_
@@ -48,7 +48,7 @@
     - _[캡슐화 02](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch06_%EC%A0%95%EB%B3%B4%EC%9D%80%EB%8B%89%EA%B3%BC%EC%BA%A1%EC%8A%90%ED%99%94/%EC%BA%A1%EC%8A%90%ED%99%9402.java)_
     - _[캡슐화 03](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch06_%EC%A0%95%EB%B3%B4%EC%9D%80%EB%8B%89%EA%B3%BC%EC%BA%A1%EC%8A%90%ED%99%94/%EC%BA%A1%EC%8A%90%ED%99%9403.java)_
 -  클래스 변수와 클래스 메소드
-    - _[static 변수 선언](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch07_%ED%81%B4%EB%9E%98%EC%8A%A4%EB%B3%80%EC%88%98%EC%99%80%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A9%94%EC%86%8C%EB%93%9C/Static%EB%B3%80%EC%88%98_%EC%84%A0%EC%96%B8.java)_
+    - _[클래스(static) 변수 선언](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch07_%ED%81%B4%EB%9E%98%EC%8A%A4%EB%B3%80%EC%88%98%EC%99%80%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A9%94%EC%86%8C%EB%93%9C/Static%EB%B3%80%EC%88%98_%EC%84%A0%EC%96%B8.java)_
     - _[클래스 변수 접근방법](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch07_%ED%81%B4%EB%9E%98%EC%8A%A4%EB%B3%80%EC%88%98%EC%99%80%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A9%94%EC%86%8C%EB%93%9C/%ED%81%B4%EB%9E%98%EC%8A%A4%EB%B3%80%EC%88%98_%EC%A0%91%EA%B7%BC%EB%B0%A9%EB%B2%95.java)_
     - _[클래스 변수 초기화](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch07_%ED%81%B4%EB%9E%98%EC%8A%A4%EB%B3%80%EC%88%98%EC%99%80%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A9%94%EC%86%8C%EB%93%9C/%ED%81%B4%EB%9E%98%EC%8A%A4%EB%B3%80%EC%88%98_%EC%B4%88%EA%B8%B0%ED%99%94.java)_
     - _[클래스 변수 활용](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch07_%ED%81%B4%EB%9E%98%EC%8A%A4%EB%B3%80%EC%88%98%EC%99%80%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A9%94%EC%86%8C%EB%93%9C/%ED%81%B4%EB%9E%98%EC%8A%A4%EB%B3%80%EC%88%98_%ED%99%9C%EC%9A%A9.java)_
