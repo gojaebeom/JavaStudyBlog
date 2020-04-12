@@ -61,10 +61,10 @@
     - _[this를 이용한 생성자 호출](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch08_%EB%A9%94%EC%86%8C%EB%93%9C_%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9/this%EB%A5%BC_%EC%9D%B4%EC%9A%A9%ED%95%9C_%EC%83%9D%EC%84%B1%EC%9E%90%ED%98%B8%EC%B6%9C.java)_
     - _[this를 이용한 인스턴스 변수 접근](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch08_%EB%A9%94%EC%86%8C%EB%93%9C_%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9/this_%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%EB%B3%80%EC%88%98_%EC%A0%91%EA%B7%BC.java)_
 -  String 클래스
-    - _[String 클래스의 인스턴스 생성](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch08_%EB%A9%94%EC%86%8C%EB%93%9C_%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9/%EB%A9%94%EC%86%8C%EB%93%9C_%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9.java)_
-    - _[String 클래스 예제 01](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch08_%EB%A9%94%EC%86%8C%EB%93%9C_%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9/this%EB%A5%BC_%EC%9D%B4%EC%9A%A9%ED%95%9C_%EC%83%9D%EC%84%B1%EC%9E%90%ED%98%B8%EC%B6%9C.java)_
-    - _[String 클래스 예제 02](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch08_%EB%A9%94%EC%86%8C%EB%93%9C_%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9/this_%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%EB%B3%80%EC%88%98_%EC%A0%91%EA%B7%BC.java)_
-    - _[String 클래스의 메소드](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch08_%EB%A9%94%EC%86%8C%EB%93%9C_%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9/this_%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%EB%B3%80%EC%88%98_%EC%A0%91%EA%B7%BC.java)_
+    - _[String 클래스의 인스턴스 생성](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch09_String%ED%81%B4%EB%9E%98%EC%8A%A4/String%ED%81%B4%EB%9E%98%EC%8A%A4%EC%9D%98_%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4_%EC%83%9D%EC%84%B1.java)_
+    - _[String 클래스 예제 01](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch09_String%ED%81%B4%EB%9E%98%EC%8A%A4/String%ED%81%B4%EB%9E%98%EC%8A%A4_%EC%98%88%EC%A0%9C01.java)_
+    - _[String 클래스 예제 02](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch09_String%ED%81%B4%EB%9E%98%EC%8A%A4/String%ED%81%B4%EB%9E%98%EC%8A%A4_%EC%98%88%EC%A0%9C02.java)_
+    - _[String 클래스의 메소드](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch09_String%ED%81%B4%EB%9E%98%EC%8A%A4/String%ED%81%B4%EB%9E%98%EC%8A%A4%EC%9D%98_%EB%A9%94%EC%86%8C%EB%93%9C.java)_
 
 
 <br/>
