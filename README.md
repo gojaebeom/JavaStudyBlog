@@ -65,6 +65,13 @@
     - _[String 클래스 예제 01](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch09_String%ED%81%B4%EB%9E%98%EC%8A%A4/String%ED%81%B4%EB%9E%98%EC%8A%A4_%EC%98%88%EC%A0%9C01.java)_
     - _[String 클래스 예제 02](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch09_String%ED%81%B4%EB%9E%98%EC%8A%A4/String%ED%81%B4%EB%9E%98%EC%8A%A4_%EC%98%88%EC%A0%9C02.java)_
     - _[String 클래스의 메소드](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch09_String%ED%81%B4%EB%9E%98%EC%8A%A4/String%ED%81%B4%EB%9E%98%EC%8A%A4%EC%9D%98_%EB%A9%94%EC%86%8C%EB%93%9C.java)_
+-  배열(Array)
+    - _[배열 시작하기](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch09_String%ED%81%B4%EB%9E%98%EC%8A%A4/String%ED%81%B4%EB%9E%98%EC%8A%A4%EC%9D%98_%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4_%EC%83%9D%EC%84%B1.java)_
+    - _[배열 생성 예제 01](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch09_String%ED%81%B4%EB%9E%98%EC%8A%A4/String%ED%81%B4%EB%9E%98%EC%8A%A4_%EC%98%88%EC%A0%9C01.java)_
+    - _[배열 생성 예제 02](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch09_String%ED%81%B4%EB%9E%98%EC%8A%A4/String%ED%81%B4%EB%9E%98%EC%8A%A4_%EC%98%88%EC%A0%9C02.java)_
+    - _[배열 저장과 참조](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch09_String%ED%81%B4%EB%9E%98%EC%8A%A4/String%ED%81%B4%EB%9E%98%EC%8A%A4%EC%9D%98_%EB%A9%94%EC%86%8C%EB%93%9C.java)_
+    - _[배열 생성과 초기화](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch09_String%ED%81%B4%EB%9E%98%EC%8A%A4/String%ED%81%B4%EB%9E%98%EC%8A%A4%EC%9D%98_%EB%A9%94%EC%86%8C%EB%93%9C.java)_
+    - _[배열 초기화와 복사 메소드](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch09_String%ED%81%B4%EB%9E%98%EC%8A%A4/String%ED%81%B4%EB%9E%98%EC%8A%A4%EC%9D%98_%EB%A9%94%EC%86%8C%EB%93%9C.java)_
 
 
 <br/>
