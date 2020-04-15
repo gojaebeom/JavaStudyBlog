@@ -74,6 +74,10 @@
     - _[배열 초기화와 복사 메소드](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch10_%EB%B0%B0%EC%97%B4/%EB%B0%B0%EC%97%B4_%EC%B4%88%EA%B8%B0%ED%99%94%EC%99%80_%EB%B0%B0%EC%97%B4%EC%9D%98_%EB%B3%B5%EC%82%AC.java)_
     - _[Main메소드의 매개변수](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch10_%EB%B0%B0%EC%97%B4/Main%EB%A9%94%EC%86%8C%EB%93%9C%EC%9D%98_%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98_%EC%84%A0%EC%96%B8.java)_
     - _[Unhanced for문 (for - each)](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch10_%EB%B0%B0%EC%97%B4/Unhanced_for%EB%AC%B8.java)_
+-  상속
+- _[상속의 기본](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch10_%EB%B0%B0%EC%97%B4/%EB%B0%B0%EC%97%B4_%EC%83%9D%EC%84%B1%ED%95%98%EB%8A%94%EB%B0%A9%EB%B2%95.java)_
+- _[클래스 변수와 클래스 메소드는 상속이 가능한가?](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch10_%EB%B0%B0%EC%97%B4/%EB%B0%B0%EC%97%B4_%EC%98%88%EC%A0%9C01.java)_
+
 
 
 <br/>
