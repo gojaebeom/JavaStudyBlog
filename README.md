@@ -75,8 +75,8 @@
     - _[Main메소드의 매개변수](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch10_%EB%B0%B0%EC%97%B4/Main%EB%A9%94%EC%86%8C%EB%93%9C%EC%9D%98_%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98_%EC%84%A0%EC%96%B8.java)_
     - _[Unhanced for문 (for - each)](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch10_%EB%B0%B0%EC%97%B4/Unhanced_for%EB%AC%B8.java)_
 -  상속
-- _[상속의 기본](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch11_%EC%83%81%EC%86%8D/%EC%83%81%EC%86%8D%EC%9D%98_%EA%B8%B0%EB%B3%B8_%EB%AC%B8%EB%B2%95_%EC%9D%B4%ED%95%B4.java)_
-- _[클래스 변수와 클래스 메소드는 상속이 가능한가?](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch11_%EC%83%81%EC%86%8D/%EC%83%81%EC%86%8D_%ED%81%B4%EB%9E%98%EC%8A%A4%EB%B3%80%EC%88%98_%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A9%94%EC%86%8C%EB%93%9C.java)_
+    - _[상속의 기본](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch11_%EC%83%81%EC%86%8D/%EC%83%81%EC%86%8D%EC%9D%98_%EA%B8%B0%EB%B3%B8_%EB%AC%B8%EB%B2%95_%EC%9D%B4%ED%95%B4.java)_
+    - _[클래스 변수와 클래스 메소드는 상속이 가능한가?](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch11_%EC%83%81%EC%86%8D/%EC%83%81%EC%86%8D_%ED%81%B4%EB%9E%98%EC%8A%A4%EB%B3%80%EC%88%98_%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A9%94%EC%86%8C%EB%93%9C.java)_
 
 
 
