@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/62233873/78540149-aa58da80-782e-11ea-9754-33ae5e40ec43.jpg" width="100%">
 
 #### _수정사항_
--  .java 파일로 예제와 글을 동시에 다루니 가독성이 좋지 않고, 무엇보다 클래스명이 한글로 예제를 만들다보니 몇가지 불편한 점들이 있었습니다. 그래서 [메소드 오버라이딩](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch11_%EC%83%81%EC%86%8D/%EB%A9%94%EC%86%8C%EB%93%9C%20%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9%20%EC%9D%B4%EB%A1%A0.md)_
+-  .java 파일로 예제와 글을 동시에 다루니 가독성이 좋지 않고, 무엇보다 클래스명이 한글로 예제를 만들다보니 몇가지 불편한 점들이 있었습니다. 그래서 [메소드 오버라이딩](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch11_%EC%83%81%EC%86%8D/%EB%A9%94%EC%86%8C%EB%93%9C%20%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9%20%EC%9D%B4%EB%A1%A0.md)
 편부터 마크다운으로 설명과 예제를 작성하려고 합니다. 
 <br/>
 
