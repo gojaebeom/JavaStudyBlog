@@ -77,6 +77,11 @@
 -  상속
     - _[상속의 기본](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch11_%EC%83%81%EC%86%8D/%EC%83%81%EC%86%8D%EC%9D%98_%EA%B8%B0%EB%B3%B8_%EB%AC%B8%EB%B2%95_%EC%9D%B4%ED%95%B4.java)_
     - _[클래스 변수와 클래스 메소드는 상속이 가능한가?](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch11_%EC%83%81%EC%86%8D/%EC%83%81%EC%86%8D_%ED%81%B4%EB%9E%98%EC%8A%A4%EB%B3%80%EC%88%98_%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A9%94%EC%86%8C%EB%93%9C.java)_
+    - _[IS - A 이론](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch11_%EC%83%81%EC%86%8D/IS_A_%EC%9D%B4%EB%A1%A0.java)_
+    - _[IS - A 예제](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch11_%EC%83%81%EC%86%8D/IS_A_%EC%98%88%EC%A0%9C.java)_
+    - 메소드 오버라이딩
+        - _[상위 클래스의 참조변수가 참조할 수 있는 대상의 범위](https://github.com/gojaebeom/java_tutorial/blob/master/src/ch11_%EC%83%81%EC%86%8D/%EB%A9%94%EC%86%8C%EB%93%9C%20%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9%20%EC%9D%B4%EB%A1%A0.md)_
+
 
 
 
