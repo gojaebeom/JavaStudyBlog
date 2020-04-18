@@ -9,7 +9,7 @@
 <br/>
 
 #### _file download_
--  *git clone https://github.com/gojaebeom/java_tutorial.git* 
+-  *git clone https://github.com/gojaebeom/java_tutorial.git*  
 <br/>
 
 ### Categories
