@@ -21,7 +21,7 @@ public class 상속의_기본_문법_이해 {
 	 * 상속이다. 예를 들어서 다음의 클래스가 정의되어 있다고 가정해보자.
 	 */
 	
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		Cat cat = new Cat("고양이", "야옹");
 		
 		cat.info();
